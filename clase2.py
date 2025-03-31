@@ -26,3 +26,4 @@ alumno = {"nombre": "Cesar", "edad": 20}
 # Tipo de dato None(NoneType)
 nada = None 0
 # me la pela
+y usted a mi
